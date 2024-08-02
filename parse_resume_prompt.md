@@ -1,11 +1,13 @@
 {
-  "name": "Pushkar Pawar",
-  "email": "22110369@viit.ac.in",
-  "phone": "+91-8482939096",
-  "linkedin": "https://www.linkedin.com/in/pushkar-pawar-30895825b/",
-  "github": "https://github.com/Pushkar012345",
-  "leetcode": "https://leetcode.com/u/PushkarPawar/",
-  "geeksforgeeks": "https://www.geeksforgeeks.org/user/pushkarp7cj0/",
+  "personal_info": {
+    "name": "Pushkar Pawar",
+    "email": "22110369@viit.ac.in",
+    "phone": "+91-8482939096",
+    "linkedin": "https://www.linkedin.com/in/pushkar-pawar-30895825b/",
+    "github": "https://github.com/Pushkar012345",
+    "leetcode": "https://leetcode.com/u/PushkarPawar/",
+    "geeksforgeeks": "https://www.geeksforgeeks.org/user/pushkarp7cj0/"
+  },
   "education": [
     {
       "degree": "B.Tech in Information Technology Engineering",
